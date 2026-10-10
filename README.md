@@ -75,5 +75,3 @@ npm run dev
 
 4. หน้า Error
    มี error.tsx สำหรับส่วน /blogs และ global-error.tsx สำหรับทั้งเว็บ
-
-หน้าตัวอย่าง Skeleton ดูได้ที่ http://localhost:3000/skeleton
